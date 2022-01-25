@@ -2,7 +2,7 @@
 
 A complete Project using Numpy
 
-Features Included in the dataset
+Features Included in the dataset:
 
 ad_id: unique ID for each ad
 
